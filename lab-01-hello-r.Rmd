@@ -1,17 +1,18 @@
 ---
 title: "Lab 01 - Hello R"
-author: "Musab Isah"
-date: "1/26/2021"
+author: "Fatimah Albrahim"
+date: "2/1/2021"
 output: html_document
 ---
 
-University ID: 
+University ID: 2201002369
 
 ### Load packages
 
 ```{r load-packages, message=FALSE}
 library(tidyverse) 
 library(datasauRus)
+
 ```
 
 
