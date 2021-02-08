@@ -21,4 +21,8 @@ library(datasauRus)
 
 ### Lab Exercise
 answer for task 3
-
+library(tidyverse)
+library(datasauRus)
+head(datasaurus_dozen)
+summary(datasaurus_dozen)
+View(datasaurus_dozen) 
